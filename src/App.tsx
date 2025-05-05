@@ -110,7 +110,7 @@ const ECommerceDemo = () => {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0 flex items-center">
-                <span className="text-xl font-bold text-indigo-600">Stackvibes E-commerce Demo</span>
+                <span className="text-xl font-bold text-indigo-600">StackVibes E-commerce Demo</span>
               </div>
               <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                 <a href="#" className="border-indigo-500 text-gray-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
@@ -407,14 +407,14 @@ const ECommerceDemo = () => {
               <address className="text-gray-400 not-italic">
                 123 Stackvibes E-commerce Demo Avenue<br />
                 New York, NY 10001<br />
-                <a href="mailto:info@Stackvibes E-commerce Demo.com" className="hover:text-white transition-colors">info@Stackvibes E-commerce Demo.com</a><br />
+                <a href="mailto:info@Stackvibes E-commerce Demo.com" className="hover:text-white transition-colors">ops@stackvibes.net</a><br />
                 <a href="tel:+11234567890" className="hover:text-white transition-colors">+1 (123) 456-7890</a>
               </address>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} Stackvibes. All rights reserved.
+              &copy; {new Date().getFullYear()} StackVibes. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
